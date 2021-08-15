@@ -79,9 +79,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'blog_posts',
-        'HOST': 'localhost',
-        'USER': 'root',
-        'PASSWORD':'Evildead@11',
+        'HOST': 'akashtyagi0blogapp.mysql.pythonanywhere-services.com',
+        'USER': 'akashtyagi0bloga',
+        'PASSWORD':'evildead11',
         'POST': 3306,
     }
 }
